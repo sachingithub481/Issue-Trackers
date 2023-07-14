@@ -1,0 +1,2 @@
+mongoose.connect('mongodb+srv://sachinvirat481:FrKnoXy8W6XMSdvp@cluster0.rvmxjgm.mongodb.net/?retryWrites=true&w=majority');
+const port =  8000;
